@@ -1,6 +1,6 @@
 Feature: User registered for the application
 
-Scenario Outline: User try to register into the application.
+Scenario Outline: User try to register into the application
 Given user open the application
 When user click on the your account option
 And user clickon create new account option
